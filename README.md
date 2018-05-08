@@ -1,6 +1,10 @@
-# meraki-mews-splash
+# meraki-splash-vue
 
 > A Cisco Meraki splash page with VueJS
+
+Learn More about the Meraki Captive Portal API
+https://create.meraki.io/guides/captive-portal-api/
+
 
 ## Build Setup
 
